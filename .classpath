@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/SkyCrafting_/Desktop/ECLIPSE/Libs/crackshot.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SkyCrafting_/Desktop/ECLIPSE/Libs/EssentialsX-2.16.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SkyCrafting_/Desktop/ECLIPSE/Libs/EssentialsXAntiBuild-2.16.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SkyCrafting_/Desktop/ECLIPSE/Libs/EssentialsXChat-2.16.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SkyCrafting_/Desktop/ECLIPSE/Libs/EssentialsXGeoIP-2.16.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SkyCrafting_/Desktop/ECLIPSE/Libs/EssentialsXProtect-2.16.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SkyCrafting_/Desktop/ECLIPSE/Libs/EssentialsXSpawn-2.16.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SkyCrafting_/Desktop/ECLIPSE/Libs/EssentialsXXMPP-2.16.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SkyCrafting_/Desktop/ECLIPSE/Libs/HealthBar-1.9.4-1.0.4-16.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SkyCrafting_/Desktop/ECLIPSE/Libs/LeaderHeads.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SkyCrafting_/Desktop/ECLIPSE/Libs/PermissionsEx-1.23.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SkyCrafting_/Desktop/ECLIPSE/Libs/PlaceholderAPI-2.10.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SkyCrafting_/Desktop/ECLIPSE/Libs/ProtocolBoard.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SkyCrafting_/Desktop/ECLIPSE/Libs/ProtocolLib.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SkyCrafting_/Desktop/ECLIPSE/Libs/Vault.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SkyCrafting_/Desktop/ECLIPSE/Libs/worldedit-bukkit-6.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SkyCrafting_/Desktop/ECLIPSE/Libs/worldguard-6.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SkyCrafting_/Desktop/ECLIPSE/spigot.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

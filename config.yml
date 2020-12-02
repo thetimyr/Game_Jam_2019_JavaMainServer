@@ -1,0 +1,394 @@
+Regions:
+  stancia:
+    regionNAME: point3
+    ponitNAME: Станция татуина
+    money: 10
+    faction: Jedi
+    replaceBLOCK:
+      world: World
+      x: 1365
+      y: 23
+      z: 2189
+Skill:
+  message: "§cСпособность перезаряжается, подождите §7 "
+Loacation:
+- GOLD_SWORD
+- IRON_SWORD
+- MAGMA_CREAM
+- BONE
+- SLIME_BALL
+- CAKE
+- RECORD_10
+- WOOD_SWORD
+- DIAMOND_SWORD
+- STONE_SWORD
+- SHEARS
+- RECORD_7
+- RABBIT_FOOT
+- SAPLING
+- NAME_TAG
+Markers:
+  world: World
+  x: -594
+  y: 135
+  z: -2
+levels:
+  '2':
+    price: 100
+    kills: 0
+    extraDMG: 0
+  '3':
+    price: 400
+    blocks: 0
+    extraDMG: 0
+  '4':
+    price: 700
+    blocks: 0
+    extraDMG: 0
+  '5':
+    price: 1310
+    blocks: 0
+    extraDMG: 0
+  '6':
+    price: 1510
+    kills: 0
+    extraDMG: 1
+    DostupItem:
+    - IRON_SWORD
+    - GOLDEN_SWORD
+  '7':
+    price: 2134
+    kills: 0
+    xp: 35
+    extraDMG: 0
+    skill: 35
+  '8':
+    price: 2614
+    kills: 0
+    xp: 60
+    extraDMG: 0
+    skill: 120
+  '9':
+    price: 3143
+    kills: 0
+    xp: 160
+    crystal: 5
+    extraDMG: 0
+    skill: 231
+  '10':
+    price: 4300
+    kills: 15
+    xp: 230
+    crystal: 10
+    extraDMG: 0
+    skill: 350
+    DostupItem:
+    - NETHERBRICK
+    - PRISMARINE_CRYSTALS
+    - BONE
+    - STRING
+    - BOWL
+  '11':
+    price: 5600
+    kills: 30
+    xp: 400
+    crystal: 15
+    extraDMG: 0
+    skill: 403
+  '12':
+    price: 17500
+    kills: 50
+    xp: 450
+    crystal: 30
+    extraDMG: 0
+    skill: 450
+  '13':
+    price: 23000
+    kills: 100
+    xp: 590
+    crystal: 60
+    extraDMG: 0
+    skill: 490
+  '14':
+    price: 32000
+    kills: 300
+    xp: 750
+    crystal: 85
+    extraDMG: 0
+    skill: 505
+  '15':
+    price: 47000
+    kills: 500
+    xp: 1000
+    crystal: 115
+    extraDMG: 0
+    skill: 1000
+    DostupItem:
+    - RECORD_4
+    - RECORD_2
+    - CLAY_BALL
+  '16':
+    price: 60000
+    kills: 610
+    xp: 1551
+    crystal: 250
+    extraDMG: 0
+    skill: 1222
+  '17':
+    price: 85000
+    kills: 750
+    xp: 2142
+    crystal: 535
+    extraDMG: 0
+    skill: 1600
+  '18':
+    price: 160000
+    kills: 1500
+    xp: 2832
+    crystal: 725
+    extraDMG: 0
+    skill: 2222
+  '19':
+    price: 230000
+    kills: 1700
+    xp: 3544
+    crystal: 915
+    extraDMG: 0
+    skill: 3003
+  '20':
+    price: 420000
+    kills: 2150
+    xp: 4463
+    crystal: 1150
+    extraDMG: 0
+    DostupItem:
+    - RABBIT_FOOT
+    - RECORD_5
+    - NETHER_STAR
+    skill: 3400
+  '21':
+    price: 530000
+    kills: 2550
+    xp: 4914
+    extraDMG: 0
+    skill: 3600
+  '22':
+    price: 735000
+    kills: 3000
+    xp: 5514
+    extraDMG: 0
+    skill: 3900
+  '23':
+    price: 840000
+    kills: 4050
+    xp: 5913
+    extraDMG: 0
+    skill: 4003
+  '24':
+    price: 1256000
+    kills: 4500
+    xp: 6832
+    extraDMG: 0
+    skill: 4223
+MaxLevel: 24
+jedi:
+  world: Space
+  x: 167
+  y: 203
+  z: 308
+  ZapretItems:
+  - BONE
+  - RECORD_2
+  - NETHER_STAR
+  - PRISMARINE_CRYSTALS
+  - GOLDEN_SWORD
+sith:
+  world: Space
+  x: 127
+  y: 189
+  z: 1065
+  ZapretItems:
+  - STRING
+  - RECORD_4
+  - RECORD_5
+  - NETHERBRICK
+  - IRON_SWORD
+ali:
+  world: world
+  x: 623
+  y: 33
+  z: 1305
+  ZapretItems:
+  - BOAT
+jedilotal:
+  world: Lotal
+  x: 167
+  y: 203
+  z: 308
+  ZapretItems:
+  - BONE
+  - RECORD_2
+  - NETHER_STAR
+  - PRISMARINE_CRYSTALS
+  - GOLDEN_SWORD
+sithlotal:
+  world: Lotal
+  x: 127
+  y: 189
+  z: 1065
+  ZapretItems:
+  - STRING
+  - RECORD_4
+  - RECORD_5
+  - NETHERBRICK
+  - IRON_SWORD
+alilotal:
+  world: Lotal
+  x: 127
+  y: 189
+  z: 1065
+  ZapretItems:
+  - BOAT
+jedi1:
+  world: Naboo
+  x: 1162
+  y: 104
+  z: 824
+SpaceAli:
+  world: starwars
+  x: -624
+  y: 177
+  z: -407
+sith5:
+  world: Naboo
+  x: 854
+  y: 72
+  z: 1398
+ali5:
+  world: Naboo
+  x: 854
+  y: 72
+  z: 1398
+jedi11:
+  world: Kamino
+  x: 375
+  y: 96
+  z: 792
+sith51:
+  world: Kamino
+  x: -160
+  y: 96
+  z: 486
+ali51:
+  world: Kamino
+  x: -160
+  y: 96
+  z: 486
+jedi111:
+  world: Mustafar
+  x: 653
+  y: 34
+  z: 455
+sith511:
+  world: Mustafar
+  x: 319
+  y: 101
+  z: 57
+ali511:
+  world: Mustafar
+  x: 319
+  y: 101
+  z: 57
+jedih:
+  world: Hot
+  x: -461
+  y: 151
+  z: -425
+sithh:
+  world: Hot
+  x: -546
+  y: 83
+  z: -810
+alih:
+  world: Hot
+  x: -546
+  y: 83
+  z: -810
+jediend:
+  world: bespin3
+  x: -45
+  y: 5
+  z: 111
+sithend:
+  world: bespin3
+  x: 220
+  y: 5
+  z: 95
+alihend:
+  world: bespin3
+  x: 220
+  y: 5
+  z: 95
+jediilum:
+  world: mine
+  x: 12
+  y: 81
+  z: 17
+sithilum:
+  world: mine
+  x: 107
+  y: 83
+  z: 38
+Arenajedi:
+  world: geonosisg
+  x: 1153
+  y: 88
+  z: -415
+ArenaSith:
+  world: geonosisg
+  x: 1157
+  y: 88
+  z: -515
+planet:
+  Tatooine:
+    level: 3
+    description: Татуин
+    world: world
+    x: 3363
+    y: 41
+    z: 2307
+  NabooJedi:
+    level: 11
+    description: Набу для Джедаев
+    world: naboo
+    x: -175
+    y: 101
+    z: 271
+  NabooSith:
+    level: 11
+    description: Набу для Ситхов
+    world: naboo
+    x: -235
+    y: 67
+    z: -12
+  KaminoJ:
+    level: 15
+    description: Камино
+    world: kamino
+    x: -390
+    y: 99
+    z: 1346
+  KaminoS:
+    level: 15
+    description: Камино
+    world: kamino
+    x: -820
+    y: 98
+    z: 1336
+  Lotal:
+    level: 25
+    description: Лотал
+    world: Lotal
+    x: -820
+    y: 98
+    z: 1336

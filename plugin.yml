@@ -1,0 +1,116 @@
+name: JediCraft
+main: SkyCrafting.Main.Main
+description: JediCraft.
+version: 1.0
+author: SkyCrafting
+softdepend: [CrackShot, WorldGuard, WorldEdit]
+
+commands:
+    level:
+        usage: /<command>
+        description: Upgrade your level.
+    top:
+        usage: /<command>
+        description: Upgrade your level.
+    jpay:
+        usage: /<command>
+        description: Upgrade your level.
+    booster:
+        usage: /<command>
+        description: Upgrade your level.
+    loh:
+        usage: /<command>
+        description: Upgrade your level.
+    quests:
+        usage: /<command>
+        description: Upgrade your level.
+    arena:
+        usage: /<command>
+        description: go to arena!.
+    status:
+        usage: /<command>
+        description: status igroka
+    gift:
+        usage: /<command> <playername>
+        description: gift igroky.
+    pvp:
+        usage: /<command>
+        description: Teleport to the pvp.
+    space:
+        usage: /<command>
+        description: Teleport to the space.
+    planets:
+        usage: /<command> <planetname>
+        description: Teleport to the planet.
+    base:
+        usage: /<command>
+        description: Teleport to the base.
+    naboo:
+        usage: /<command>
+        description: Teleport to the naboo.
+    lotal:
+        usage: /<command>
+        description: Teleport to the lotal.
+    kamino:
+        usage: /<command>
+        description: Teleport to the kamino.
+    side:
+        usage: /<command> <leave>
+        description: Choose your faction.
+    sc:
+        usage: /<command> <message>
+        description: Staff chat.
+    mustafar:
+        usage: /<command> <message>
+        description: Teleport to the mustafar.
+    hot:
+        usage: /<command> <message>
+        description: Teleport to the hot.
+    endor:
+        usage: /<command> <message>
+        description: Teleport to the hot.
+    lwget:
+        usage: /<command> <nick> <lvl>
+        description: Up to lvl.
+    hatcape:
+        usage: /<command> <message>
+        description: hat to head.
+    jcinfo:
+        usage: /<command> <message>
+        description: hat to head.
+    addspawner:
+        permission: cristalix.prison.admin
+        usage: /<command>
+        description: Upgrade your level.
+    removespawner:
+        permission: cristalix.prison.admin
+        usage: /<command>
+        description: Upgrade your level.
+    resetbosses:
+        permission: cristalix.prison.admin9
+        usage: /<command>
+        description: Upgrade your level.
+    Jedi:
+        permission: cristalix.prison.admin9
+        usage: /<command>
+        description: Upgrade your level.
+    getdonat:
+        usage: /getdonat
+        description: back to hub.
+    score:
+        usage: /score
+        description: back to hub. 
+    qvestskill:
+        usage: /score
+        description: back to hub.      
+    mudak:
+        usage: /mudak
+        description: back to hub.          
+permissions:
+  nopvp:
+    description: NoPvp_Player!
+    default: op
+  nopvp1:
+    description: NoPvp_Player!
+    default: op
+    
